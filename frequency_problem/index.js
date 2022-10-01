@@ -43,4 +43,4 @@ function sameFrequency(str1, str2) {
   return true;
 }
 
-console.log(sameFrequency("aabbc", "aabbc"));
+console.log(sameFrequency("aabc", "abbc"));
